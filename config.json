@@ -1,0 +1,19 @@
+[
+  {
+    "vk_id": ,
+    "vk_token": "",
+    "yandexLogin": "",
+    "yandexPassword": ""
+  },
+  {
+    "startSymbol": "♪ ",
+    "endSymbol": " ♪",
+    "afkTime": 60,
+    "status" : ""
+  },
+  {
+    "statusUpdate": "!статус_апдейт",
+    "startSymbolUpdate": "!1символ",
+    "endSymbolUpdate": "!2символ"
+  }
+]
